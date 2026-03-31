@@ -74,3 +74,13 @@ Auto-Mail/
 ├── LICENSE
 ├── .gitignore
 └── .gitattributes
+
+Conta de e-mail
+   ↓
+Leitura de mensagens via IMAP
+   ↓
+Extração do conteúdo textual
+   ↓
+Envio para modelo generativo
+   ↓
+Retorno em JSON com resumo + categoria
